@@ -1,5 +1,5 @@
 <h1 align="center"><b><img src=https://i.imgur.com/kQHvJmI.png" alt="Image" height="50" width="50"><br>Página Inicial do Instagram</b><br></h1>
-
+<center><img src="https://i.imgur.com/sf1p8MN.png" alt="Image" height="550" width="900">
 
 
 <b>Objetivo do projeto:</b><br>
